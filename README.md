@@ -1,12 +1,13 @@
-<👋 Hello, I'm Malika />
-======================
+<div align="center">
+<h1><👋 Hello, I'm Malika /> </h1>
+</div>
 
-------------------
+
 <div align="center">
 <p>🌍  I'm based in Tashknet </p>
 <p> ✨ I like to solve algorithmic tasks in Codewars </p>
 <p> 🔭 Hobbies: Following new techs </p>
-<p> 🎓 INHA University in Tashkentn/Scandiweb </p>
+<p> 🎓 INHA University in Tashkent/Scandiweb </p>
 </div>
 
 ###
